@@ -10,7 +10,7 @@ Functions:
  - Cancel Ticket 
  - Order Menu Items (Available only in Business Seats)
  
- ##What I learned
+ ## What I learned
  
  - Introduction to Object Oriented Programming with Java
  - Variables and Data types  
