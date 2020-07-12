@@ -1,4 +1,4 @@
-# airportSystem
+# Airport_Management_System
 An Airport Management System with Java.
 
 Functions: 
